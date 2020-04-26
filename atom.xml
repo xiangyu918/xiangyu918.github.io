@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiangyu918.github.io/</id>
     <title>Gridea</title>
-    <updated>2020-04-26T15:04:12.844Z</updated>
+    <updated>2020-04-26T15:31:13.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiangyu918.github.io/"/>
     <link rel="self" href="https://xiangyu918.github.io/atom.xml"/>
@@ -10,6 +10,62 @@
     <logo>https://xiangyu918.github.io/images/avatar.png</logo>
     <icon>https://xiangyu918.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[日记Date4-26]]></title>
+        <id>https://xiangyu918.github.io/post/ri-ji-date4-26/</id>
+        <link href="https://xiangyu918.github.io/post/ri-ji-date4-26/">
+        </link>
+        <updated>2020-04-26T15:04:14.000Z</updated>
+        <content type="html"><![CDATA[<p>上午《恋词》结束了十四单元，复习了十一单元。用了大概3个小时，今天十四单元听了2个多小时，然后吃饭。<br>
+下午，线性代数向量组的内容，有很多定理，印象不是很多了，刚开始听感觉很抽象，听完后再看感觉好了很多，然后接力题典1800，做了也就15道题花了2个小时左右，效率太低了。<br>
+晚上，听网课，结果在Linux中装软件都没成功，也没看完回放。<br>
+communciate          v.沟通、交流<br>
+interact           v.交流、交往<br>
+contact         v.联系、联络        n.联系、联络</p>
+<p>convey           v.表达、运送<br>
+express           v.表达、快递       n.特快专车          adj.快速的<br>
+voice            n.嗓音、声音          v.表达<br>
+articulate         adj.善于表达的、发音清晰的         v.清楚的表达</p>
+<p>infect            v.传染、受影响</p>
+<p>concentrate                v.专注、专心、汇集于<br>
+focus            n.中心、焦点、焦距         v.集中（on）<br>
+center           n.中心点、中心         v.以....为中心、集中于（around/round）<br>
+converge            v.相交、汇集<br>
+gather        v.聚集<br>
+collect            v.收集、募集<br>
+assemble            v.集合、装配<br>
+aggreate           adj.总计的、合计的           n.总计<br>
+rally           n.大型公众集会      v.召集</p>
+<p>council        n.委员会、理事会         adj.地方政府出租的<br>
+panel           n.专家小组、仪表盘</p>
+<p>parliament             n.议会、国会（英国）<br>
+congress              n.代表大会、国会、美国国会<br>
+chamber          n.议院、房间<br>
+senate           n.参议院、大学理事会<br>
+cabinet         n.内阁、储藏柜</p>
+<p>craft          n.工艺、手艺、职业、航天器、制作<br>
+aircraft             n.飞行器、航天器<br>
+vessel          n.飞船、容器</p>
+<p>profession            n.行业、职业、同行、表白<br>
+vocation         n.使命感、天职、职业<br>
+career             n.生涯、职业</p>
+<p>technique         n.技巧、手法、技术</p>
+<p>desperate         adj.渴望的、拼命的、极需要的、孤注一郑的<br>
+eager         adj.热切的、渴望的<br>
+keen      adj.渴望的、着迷的、强烈的</p>
+<p>discipline      n.纪律、训练、专业、科目       v.惩罚、训练<br>
+subject           n.主题、科目、实验对象          adj.be ~ to可能受....影响的<br>
+~ to 取决于....的<br>
+punish          v.惩罚      n.惩罚<br>
+fine        adj.美好的、精美的        adv.令人满意地          n.罚金、罚款         v.对.....处以罚金<br>
+train            n.火车、列车         v.训练、教育<br>
+coach            n.教练、私人教师、长途汽车            v.训练、辅导<br>
+educate           v.教育、训练</p>
+<p>double             adj.成双的、双倍的         v.使加倍、使对折         n.两倍、双人房<br>
+twin                n.双胞胎中的一个        adj.双胞胎的、成对的、密切相关的         v.使紧密结合</p>
+<p>dual          adj.两部分的、两重的</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日记Date4-25]]></title>
         <id>https://xiangyu918.github.io/post/ri-ji-date4-25/</id>
@@ -420,57 +476,6 @@ overall           adj.总体的、全面的          adv.全部<br>
 blanket        n.毛毯       v.覆盖          adj.全面的、总结的</p>
 <p>comprehensive         adj.综合的、包罗万象的<br>
 extensive           adj.广阔的、大量的、广泛的</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日记Date4-16]]></title>
-        <id>https://xiangyu918.github.io/post/ri-ji-date4-16/</id>
-        <link href="https://xiangyu918.github.io/post/ri-ji-date4-16/">
-        </link>
-        <updated>2020-04-16T14:53:46.000Z</updated>
-        <content type="html"><![CDATA[<p>上午网课，Liunx应用程序开发已经接近尾声了，明天进行期中考试。在家呆了已经快3个半月了，感觉复习的效率不高，时间很紧迫。<br>
-下午《恋词》第10单元，然后接力题典1800不定积分部分。今天效率比较高，做的题比较多，主要是越来越顺手了。<br>
-novel         n.小说      adj.新颖的、新奇的<br>
-fiction          n.小说、虚构的事<br>
-romance           n.浪漫情调、传奇色彩</p>
-<p>original       adj.最初的、独特的      n.原件<br>
-innovative         adj.新颖的、创新的</p>
-<p>precise         adj.准确的、一丝不苟的<br>
-exact         adj.准确的、确切的<br>
-accturate            adj.精确的</p>
-<p>promise          v.承诺、保证         n.征兆、诺言<br>
-guarantee          v.保证、确保、保修     n.保修单<br>
-pledge            v.承诺、抵押        n.保证、誓言<br>
-assure        v.向....保证、确保<br>
-ensure         v.保证、确保<br>
-warrant        v.保证、担保       n.搜查令、许可证、依据<br>
-swear        v.咒骂、发誓保证</p>
-<p>vow        n.誓言    v.发誓<br>
-oath       n.誓言</p>
-<p>represent        v.代表、体现、描述<br>
-embody        v.代表、体现、包含<br>
-symbolize         v.象征、代表</p>
-<p>reveal         v.显示、揭露<br>
-betray        v.背叛、出卖、暴露<br>
-display        v/n.展示、展览<br>
-exhibit         v.表现、展出       n.展览会<br>
-reflect      v.反射、反映、仔细kaolv<br>
-unfold          v.打开、透露</p>
-<p>disclose         v.揭露、公开<br>
-expose        v.使显露、揭露<br>
-uncover          v.发现、揭露<br>
-leak          v.泄露</p>
-<p>sign          n.符号、标记        v.签名、示意<br>
-signal         n.信号、标志、信号灯      v.发信号、示意      adj.重大的<br>
-cue           n.暗示       v.提示、暗示<br>
-clue       n.线索</p>
-<p>gesture       n.手势、姿态      v.打手势<br>
-wave            v.招手、挥舞       n.海浪、浪潮<br>
-motion          n.运动、手势      v.打手势、示意</p>
-<p>symbol           n.标记、象征<br>
-mark            n.记号、标记、分数       v.做记号、标志着、赋予特征</p>
-<p>symptom        n.症状、征兆<br>
-herald        v.预示....的来临      n.预兆</p>
 ]]></content>
     </entry>
 </feed>
