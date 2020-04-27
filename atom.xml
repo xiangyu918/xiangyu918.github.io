@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiangyu918.github.io/</id>
     <title>Gridea</title>
-    <updated>2020-04-26T15:31:13.176Z</updated>
+    <updated>2020-04-27T15:24:40.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiangyu918.github.io/"/>
     <link rel="self" href="https://xiangyu918.github.io/atom.xml"/>
@@ -10,6 +10,53 @@
     <logo>https://xiangyu918.github.io/images/avatar.png</logo>
     <icon>https://xiangyu918.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[日记Date4-27]]></title>
+        <id>https://xiangyu918.github.io/post/ri-ji-date4-27/</id>
+        <link href="https://xiangyu918.github.io/post/ri-ji-date4-27/">
+        </link>
+        <updated>2020-04-27T14:57:33.000Z</updated>
+        <content type="html"><![CDATA[<p>上午《恋词》进入十五单元，复习了第十单元，慢慢来就是快。感觉好多天没有看语法了，最近实在是太忙了，一直忙着看线代基础知识，线代向量这部分的定理和推论很多，还很抽象，令人头大。今天接力题典1800定积分部分做了很多题，快要完成了，发现了很多问题，对定积分的性质掌握不够熟练，还有返现泰勒公式还是没有学会使用，还有就是计算的问题很大，经常漏符号和少乘个数。好像是最近复习的太急了，感觉有点浮躁了，网课好几天没怎么听了，很慌。希望可以快点好起来。<br>
+realease          v.释放、公布、发行           n.释放、排放、新唱片<br>
+discharge             v.释放、排放、履行、偿还<br>
+emit           v.排放、散发</p>
+<p>dramatic           adj.急剧的、戏剧的<br>
+drastic      adj.极端的、急剧的</p>
+<p>due        adj.预计的、预期的、到期的、应有...的           n.某人应得的东西 、会员费<br>
+fee               n.报酬、费用<br>
+toll              n.通行费、伤亡人数、代价             v.敲（钟）<br>
+take a toll on       对.....造成损失</p>
+<p>dynamic          adj.充满活力的、动态的        n.动力、~s动力学<br>
+energetic             adj.精力充沛的<br>
+vigorous                adj.充满活力的<br>
+lively           adj.精力充沛的<br>
+active          adj.活跃的、活的（火山）</p>
+<p>establish         v.建立、使稳固<br>
+institute           n.机构、学院、研究所          v.建立、制定、开创<br>
+found         v.创建、创办</p>
+<p>expect                  prep.除....之外       conj.除了       v.把....排除在外<br>
+save               v.拯救、节省、储存       prep.除....之外</p>
+<p>exclude            v.不包括、将....排除在外</p>
+<p>expensive           adj.昂贵的、价格高的<br>
+costly          adj.昂贵的、代价高的<br>
+extravagant         adj.奢侈的、挥霍的、铺张浪费的</p>
+<p>explicit          adj.清晰明确地、直截了当的<br>
+clear       adj.清楚的、无障碍的       v.清除、批准<br>
+specific          adj.特有的、专门的</p>
+<p>external        adj.外部的、外面的、与国外的         反：internal<br>
+outer         adj.外面的、外部的                                     inter<br>
+outward         adj.向外的、外面的      adv.向外        inward<br>
+exterior          n.外观、外部        adj.外面的            interior<br>
+superficial           adj.肤浅的、浅薄的</p>
+<p>foreign          adj.外国的、外交的<br>
+overseas              adj.海外的、国外的<br>
+alien           adj.外国的、异域的、外星人的       n.外国人、外星人</p>
+<p>file            n.文件夹、卷宗             v.把....归档、提出、发送<br>
+portfolio            n.公文包、文件夹<br>
+document        v.记录、记载       n.文件、文献<br>
+classify          v.把....分类</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日记Date4-26]]></title>
         <id>https://xiangyu918.github.io/post/ri-ji-date4-26/</id>
@@ -419,63 +466,6 @@ operate             v.运作、管理、运营、动手术、采取军事行动<
         <content type="html"><![CDATA[<p>上午把十个单元的单词全部串了一遍，有些单词还很陌生，感觉需要反复翻看这十个单元的单词了。<br>
 下午结束了接力题典1800的不定积分部分，听完汤老师讲的收获很大，总结了做题方法。<br>
 本来打算开始线性代数，结果虚拟机崩了，没有完成实验，鼓捣了一晚上，还好解决了。🙂🙂</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日记Date4-17]]></title>
-        <id>https://xiangyu918.github.io/post/ri-ji-date4-17/</id>
-        <link href="https://xiangyu918.github.io/post/ri-ji-date4-17/">
-        </link>
-        <updated>2020-04-17T14:33:35.000Z</updated>
-        <content type="html"><![CDATA[<p>上午考试，这个考试系统突然崩了一会，还好我做的题保存了下来，没出大问题。<br>
-下午《恋词》结束了第十单元，结束了高频词汇的学习，明天准备把十个单元的单词翻看一遍，现在感觉已经忘记1半了。虽然再看一遍，不能保证全记住吧，但也能多记住很多，记单词不就是不断的反复吗，在不同的地方记相同的单词。接力题典1800做完不定积分部分，然后听了汤神的讲解，感觉汤神的手法太秒了（真的不是舔），自己还是太年轻了。<br>
-standard            n.标准、水平      adj.普通的、正常的<br>
-level         n.水平、标准、级别        adj.平坦的、水平的<br>
-criterion         n.评判标准<br>
-norm        n.常态、标准</p>
-<p>status          n.社会地位、职位<br>
-rank           n.军衔、等级、排         v.具有....地位、位列<br>
-class         n.社会阶级、班级、种类</p>
-<p>unique         adj.独一无二的、独特的<br>
-distinctive          adj.独特的、特别的<br>
-peculiar        adj.古怪的、特有的<br>
-special          adj.特别的       n.特产、特别节目</p>
-<p>attract             v.吸引、引诱<br>
-draw        v.绘画、拉、取出、打成平局        n.平局<br>
-charm          v.迷住         n.魅力<br>
-fastcinate        v.使着迷、迷住<br>
-captivate       v.使着迷、吸引<br>
-invite         v.邀请、招致<br>
-tempt          v.劝说、引诱<br>
-lure         v.引诱、诱惑       n.诱饵<br>
-seduce         v.勾引、引诱</p>
-<p>bear          v.携带、支撑、承受 、忍受        n.熊<br>
-stand               v.站立、经得住、忍受         n.态度、立场<br>
-suffer            v.经受、遭受<br>
-endure            v.忍耐、忍受<br>
-abide             v.忍受、容忍<br>
-tolerate            v.容忍、宽容<br>
-withstand             v.经得住、耐受、抵挡</p>
-<p>harbor        n.   港口、避风湾        v.怀有</p>
-<p>describe             v.描述、描写<br>
-depict               v.描绘、描写<br>
-portray            v.描绘、描画、扮演</p>
-<p>notwithstanding               prep/adv     尽管、虽然<br>
-despit             prep.尽管、虽然<br>
-nevertheless             adv.然而、尽管如此<br>
-nonetheless            adv.然而、尽管如此</p>
-<p>expole          v.探索、探讨<br>
-probe            v.调查、探究        n.宇宙探测器</p>
-<p>favor         n.支持、偏爱、善意的行为      v.偏袒、赞同、有利于<br>
-prefer          v.更喜欢</p>
-<p>general          adj.大体的、普遍的、综合的             n.将军<br>
-broad         adj.宽阔的、广泛的<br>
-rough              adj.粗糙的、艰难的<br>
-universal           adj.全体的、普遍正确的<br>
-overall           adj.总体的、全面的          adv.全部<br>
-blanket        n.毛毯       v.覆盖          adj.全面的、总结的</p>
-<p>comprehensive         adj.综合的、包罗万象的<br>
-extensive           adj.广阔的、大量的、广泛的</p>
 ]]></content>
     </entry>
 </feed>
